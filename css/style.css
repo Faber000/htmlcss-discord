@@ -17,7 +17,7 @@ h2 {
     display: inline-block;
     margin-top: 10px;
     margin-bottom: 20px;
-    font-size: 45px;
+    font-size: 40px;
     
 }
 
@@ -33,7 +33,7 @@ a {
 }
 
 section {
-    height: 600px;
+    height: 650px;
     padding-top: 60px;
 }
 
@@ -149,4 +149,14 @@ button {
 .section-container {
     width: 70%;
     margin: auto;
+}
+
+.section-container-big {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
 }
