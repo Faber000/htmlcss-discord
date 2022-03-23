@@ -127,10 +127,12 @@ button {
 
 .text-left {
     float:left;
+    margin-right: 50px;
 }
 
 .text-right{
     float:right;
+    margin-left: 50px;
 }
 
 .section-even {
