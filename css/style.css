@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    display: inline-block;
+}
+
+h1 {
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+
+p {
+    text-align: left;
+    margin: 20px;
+}
+
+.logo {
+    position: absolute;
+    top:10px;
+}
+
+.main-nav {
+    width:100%;
+}
+
+li {
+    display: inline-block;
+    color: white;
+    margin-right: 20px;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+}
+
+button {
+    background-color: white;
+    margin: 10px;
+    border-radius: 20px;
+    border: none;
+    text-align: center;
+}
+
+.button-mac {
+    padding: 10px;
+    width: 150px;
+    height: 45px;
+    font-size: 15px;
+}
+
+.button-browser {
+    background-color: black;
+    padding: 10px;
+    color:white;
+    width: 250px;
+    height: 45px;
+    font-size: 15px;
+}
+
+.button-login {
+    height: 40px;
+    width: 70px;
+    position: absolute;
+    right: 0%;
+    top: 0%;
+}
+
+header {
+    position: relative;
+    height: 600px;
+    background-image: url("../img/jumbo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.container {
+    position: relative;
+    height: 100%;
+    width: 1000px;
+    margin: auto;
+}
+
+.container-2 {
+    padding-top: 10px;
+    width: 600px;
+    margin: auto;
+    position: relative;
+    text-align: center;
+}
+
+.header-text {
+    padding-top: 10%;
+    color:white;
+    margin: auto; 
+    position: relative; 
+}
+
